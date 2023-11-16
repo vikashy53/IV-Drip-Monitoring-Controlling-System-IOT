@@ -15,5 +15,8 @@ Intravenous therapy is treatment that infuses intravenous solutions directly int
 ## Methodology
 ![image](https://github.com/vikashy53/IV-Drip-Monitoring-Controlling-System-IOT/assets/122713683/cce65e57-ad7e-4d5f-9c91-3ac2f8e8b101)
 
+## Pictures
+![WhatsApp Image 2023-11-16 at 17 02 27_b3d5082e](https://github.com/vikashy53/IV-Drip-Monitoring-Controlling-System-IOT/assets/122713683/31ceb5fb-7bce-4c0e-a668-dbba8d8b33ee)
+
 ## Conclusion
 The system includes NodeMCU ESP32 Controller, Load Cell, Servo Motor with clam, Saline Bottle, Buzzer, and Blynk App. The system is designed to capture the changes in the level of saline bottle and determine the level of saline bottle which is continuously being displayed oven the blynk application. When the determined level is less than predefined threshold weight, then the buzzer sounds to notify the nursing staff and the supply of the fluid through the pipe to the patient is stopped. A warning is also issued on the blynk application.
